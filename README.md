@@ -2,8 +2,11 @@
 
 A full-featured operating system for Arduino Nano (ATmega328P) with 6 games, multiple apps, and persistent storage - all controlled with a single button on a 16x2 I2C LCD display.
 
-![AMAN-OS Demo](demo.gif)
-*Demo coming soon!*
+## 📺 Demo Video
+   
+   [![AMAN-OS Demo](https://img.youtube.com/vi/J0eP7VAG8SE/maxresdefault.jpg)](https://youtu.be/J0eP7VAG8SE)
+   
+   *Click the image above to watch the full demo on YouTube!*
 
 ## ✨ Features
 
@@ -132,9 +135,11 @@ The OS uses a finite state machine with 17 states:
 - [ ] Multiplayer support (2-button mode)
 - [ ] Custom characters for better graphics
 
-## 📸 Screenshots
-
-*Coming soon - will add photos and videos of the OS in action!*
+## 📺 Demo Video
+   
+   [![AMAN-OS Demo](https://img.youtube.com/vi/J0eP7VAG8SE/maxresdefault.jpg)](https://youtu.be/J0eP7VAG8SE)
+   
+   *Click the image above to watch the full demo on YouTube!*
 
 ## 🤝 Contributing
 
