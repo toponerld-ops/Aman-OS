@@ -103,6 +103,9 @@ Took forever to debug the timing and button debouncing but it works now.
 
 ![Wiring Diagram](images/wiring_diag.png)
 
+
+- [Images](./images)
+
 ## BOM
 
 [View Bill of Materials (BOM)](Arduino_Projectv1.9_BOM.csv)
