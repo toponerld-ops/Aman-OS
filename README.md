@@ -93,6 +93,11 @@ Built a state machine with 18 states. Optimized LCD updates (only redraws change
 Weather station talks over Bluetooth - master/slave setup with binary data protocol.
 Took forever to debug the timing and button debouncing but it works now.
 
+## Images
+
+
+![App Screenshot](images/your-image.png)
+
 ## Setup
 1. Install Arduino IDE
 2. Install libraries via Library Manager
